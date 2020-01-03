@@ -1,0 +1,9 @@
+[package]
+name = "relray"
+version = "0.1.0"
+authors = ["= <=>"]
+edition = "2018"
+
+[dependencies]
+nalgebra = "0.18"
+image = "0.22.3"
